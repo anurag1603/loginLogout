@@ -1,6 +1,11 @@
 # IonProject
 
-This project was generated with [Angular CLI] (https://github.com/angular/angular-cli) version 1.7.1.
+This project was generated with [Angular CLI] (https://github.com/angular/angular-cli) version 1.7.1. 
+
+The project is added in https://github.com/anurag1603/loginLogout  ,
+clone the repository ,
+npm install ,
+after which ng serve , will work
 
 ## Development server
 
@@ -18,4 +23,4 @@ The correct users are -:
 
   added in file login-user.service.ts 
 
-On selecting a correct user , will move to the private view 
+On selecting a correct user , will move to the private view
